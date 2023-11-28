@@ -1,9 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ezgi</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+- 🔭 I’m currently working on [-](-)
+
+- 🌱 I’m currently learning **-**
+
+- 👯 I’m looking to collaborate on [-](-)
+
+- 🤝 I’m looking for help with [-](-)
+
+- 👨‍💻 All of my projects are available at [-](-)
+
+- 📝 I regularly write articles on [-](-)
+
+- 💬 Ask me about **-**
+
+- 📫 How to reach me **-**
+
+- 📄 Know about my experiences [-](-)
+
+- ⚡ Fun fact **-**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezgi-kayak-142305276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezgi-kayak-142305276/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ezgi-kayak-142305276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezgi-kayak-142305276" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
